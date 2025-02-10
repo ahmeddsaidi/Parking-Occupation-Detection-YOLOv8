@@ -34,16 +34,13 @@ This project aims to contribute to Morocco's digital transformation by developin
 ### **Prediction Results** 
 Below are examples of the predictions made by the YOLOv8 model on parking lot images:
 
-![Prediction Example 1](path_to_your_prediction_image_1)
-*Example 1: Detected free and occupied parking spots.*
-
-![Prediction Example 2](path_to_your_prediction_image_2)
-*Example 2: Real-time parking spot detection in action.*
+![Prediction Example](images/App.png)
+*Detected free and occupied parking spots.*
 
 ### **Mobile App Interface** 
 Here’s a preview of the mobile app that integrates with the parking detection system:
 
-![Mobile App Screenshot](path_to_your_mobile_app_image)
+![Mobile App Screenshot](images/Prediction.png)
 *Mobile app interface showing real-time parking spot availability.*
 
 ## **Installation & Setup** ⚡
