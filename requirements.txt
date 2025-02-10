@@ -1,0 +1,23 @@
+# For deep learning model (YOLOv8)
+torch>=1.12.0  # PyTorch library for model training and inference
+
+# For YOLOv8 specific
+yolov8  # YOLOv8 model package
+
+# For image processing
+opencv-python>=4.5.1  # OpenCV for computer vision tasks
+
+# For training and model evaluation
+numpy>=1.21.0  # Numerical computing for array manipulation
+pandas>=1.3.0  # For working with data frames and annotations
+matplotlib>=3.4.0  # Visualization (graphs and images)
+
+# For deep learning frameworks
+torchvision>=0.13.0  # For computer vision models and image transformation
+
+# For data augmentation (if wanted)
+albumentations>=1.1.0  # For image augmentation to improve model robustness
+
+# For general utilities
+scikit-learn>=0.24.2  # For any additional ML utilities (e.g., metrics)
+tqdm>=4.62.0  # For showing progress bars in loops
