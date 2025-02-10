@@ -2,7 +2,7 @@
 
 ## **Project Overview** 🌍
 
-This project aims to contribute to Morocco's digital transformation by developing an **AI-powered system** for automatic parking spot detection and classification. By leveraging **YOLOv8** (You Only Look Once version 8), a cutting-edge deep learning model, the system is capable of detecting free and occupied parking spaces from images in real time. This system can enhance urban mobility, reduce parking congestion, and improve the overall parking experience in cities.
+This project aims to contribute as an example to Morocco's digital transformation by developing an **AI-powered system** for automatic parking spot detection and classification. By leveraging **YOLOv8** (You Only Look Once version 8), a cutting-edge deep learning model, the system is capable of detecting free and occupied parking spaces from images in real time. This system can enhance urban mobility, reduce parking congestion, and improve the overall parking experience in cities.
 
 ## **Project Objectives** 🎯
 - 🚗 **Develop** a parking spot detection system using YOLOv8 for real-time applications.
@@ -27,20 +27,20 @@ This project aims to contribute to Morocco's digital transformation by developin
 ## **Key Features** ✨
 - 🚀 **Real-Time Detection**: The model is optimized to detect parking spots instantly, making it suitable for dynamic urban environments.
 - 🎯 **High Precision**: With a focus on accuracy, the system classifies parking spots with near-perfect precision, providing reliable results for users.
-- 📱 **Mobile Integration**: The project showcases the potential to integrate the detection system into a mobile app, offering an easy-to-use interface for users.
+- 📱 **Mobile Integration**: The project showcases the potential to integrate the detection system into a mobile app, offering an easy-to-use interface for public users.
 
 ## **Screenshots** 📸
 
 ### **Prediction Results** 
 Below are examples of the predictions made by the YOLOv8 model on parking lot images:
 
-![Prediction Example](images/App.png)
+<img src="images/Prediction.png" width="300" alt="Prediction Example" />
 *Detected free and occupied parking spots.*
 
 ### **Mobile App Interface** 
 Here’s a preview of the mobile app that integrates with the parking detection system:
 
-![Mobile App Screenshot](images/Prediction.png)
+<img src="images/App.png" width="300" alt="Mobile App Screenshot" />
 *Mobile app interface showing real-time parking spot availability.*
 
 ## **Installation & Setup** ⚡
